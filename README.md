@@ -28,8 +28,7 @@ I design and build secure backend systems, analyze security data, and develop en
 1. 🔐 **Secure Auth API** – Role-based access control, JWT, logging, rate limiting  
 2. 📊 **Security Log Analyzer** – Detect anomalies, visualize threats, PostgreSQL backend  
 3. 📱 **Flutter Security Dashboard** – Mobile app consuming secure APIs to monitor threats  
-4. 🧠 **Cyber & Data Labs** – Organized experiments, notes, and small tools for learning  
-5. 🛠️ **Intrusion Detection Tool (Experimental)** – Educational tool for attack detection  
+4. 🛠️ **Intrusion Detection Tool (Experimental)** – Educational tool for attack detection  
 
 ---
 
