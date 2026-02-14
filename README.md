@@ -1,57 +1,58 @@
-Hey, I’m Asma 👋
+## Hey, I’m Asma 👋
 
-Cybersecurity student who likes building things instead of just talking about attacks.
-I work mostly on secure backend systems, security-related data, and Flutter apps that sit on top of real APIs.
+Cybersecurity student who prefers **building things** over just talking about attacks.  
+I mostly work on **secure backend systems**, **security-related data**, and **Flutter apps** that sit on top of real APIs — not mockups.
 
-Based in Algeria 🇩🇿
-
----
-
-### What I’m into
-- Designing secure authentication and authorization flows
-- Analyzing logs and security signals to find suspicious behavior
-- Turning backend systems into usable mobile apps
-- Learning how real systems fail — and how to harden them
+📍 Based in **Algeria 🇩🇿**
 
 ---
 
-### Tools I actually use
+### 🧠 What I’m into
+- Designing **secure authentication & authorization** flows  
+- Analyzing logs and security signals to spot **suspicious behavior**  
+- Turning backend systems into **usable mobile apps**  
+- Learning how **real systems fail** — and how to harden them  
 
-**⚡ Backend**
+---
+
+### 🛠️ Tools I actually use
+
+**⚡ Backend**  
 Python · Django · Node.js · PostgreSQL · REST APIs  
 
-**☁️ Security**
+**🔐 Security**  
 JWT · OAuth2 · Hashing · Input validation · Access control  
 
-**🗄️ Databases**
-PostgreSQL · MongoDB · MySQL · Supabase · Drizzle · Firebase
+**🗄️ Databases**  
+PostgreSQL · MongoDB · MySQL · Supabase · Drizzle · Firebase  
 
-**📱Mobile**
+**📱 Mobile**  
 Flutter · Dart  
 
-**🛠️ Tools**
-Git · GitHub · Postman · Arduino · Cisco
----
-
-### Things I’ve built (or I’m building)
-- **Secure Auth API** — role-based access control, JWT, logging, rate limiting  
-- **Security Log Analyzer** — detects unusual patterns in authentication and system logs  
-- **Flutter Security Dashboard** — mobile client for monitoring security data  
-- **Phishing Email Detector** — ML-based experiment using real-world datasets  
-
-Each project is built for learning and defensive security purposes.
+**🧰 Tools**  
+Git · GitHub · Postman · Arduino · Cisco  
 
 ---
 
-### Currently improving
-- Backend security patterns
-- Security analytics
-- Applying ML carefully in cybersecurity (no hype, just signals)
+### 🚀 Things I’ve built (or I’m building)
+- 🔐 **Secure Auth API** — role-based access control, JWT, logging, rate limiting  
+- 📊 **Security Log Analyzer** — detects unusual patterns in authentication and system logs  
+- 📱 **Flutter Security Dashboard** — mobile client for monitoring security data  
+- 🎣 **Phishing Email Detector** — ML-based experiment using real-world datasets  
+
+_All projects are built for learning and **defensive security** purposes._
 
 ---
 
-🤝 If you’re into secure systems, backend work, or security data — we’ll get along.
-Linkdin :Asma belkerrouche 
-Email : a_belkerrouche@estin.dz
-Github : asmaBelkerrouche
+### 🌱 Currently improving
+- Backend security patterns  
+- Security analytics  
+- Applying ML **carefully** in cybersecurity (no hype, just signals)
 
+---
+
+🤝 If you’re into **secure systems**, **backend work**, or **security data** — we’ll probably get along.
+
+🔗 **LinkedIn:** https://www.linkedin.com/in/asma-belkerrouche-5a9365260/  
+📧 **Email:** a_belkerrouche@estin.dz  
+💻 **GitHub:** https://github.com/asmaBelkerrouche
