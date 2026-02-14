@@ -1,54 +1,57 @@
-# Hi, I’m Asma Belkerrouche 👋
-Cybersecurity major | Backend developer | Data enthusiast | Flutter app builder
+Hey, I’m Asma 👋
 
-I design and build secure backend systems, analyze security data, and develop end-to-end applications that are both functional and secure. Currently exploring real-world security solutions, backend architecture, and mobile interfaces.
+Cybersecurity student who likes building things instead of just talking about attacks.
+I work mostly on secure backend systems, security-related data, and Flutter apps that sit on top of real APIs.
 
----
-
-## ⚡ Focus Areas
-- Secure backend & API development
-- Security data analysis & monitoring
-- Threat detection & anomaly analysis
-- Mobile dashboards with Flutter
-- Cyber hygiene & ethical hacking (educational)
+Based in Algeria 🇩🇿
 
 ---
 
-## 🛠️ Tech Stack
-- **Languages:** Python, JavaScript, SQL, Dart  
-- **Backend:** Django, Node.js, PostgreSQL  
-- **Security:** JWT, OAuth2, hashing, input validation  
-- **Data:** Pandas, analytics, log analysis  
-- **Mobile:** Flutter  
-- **Tools:** Docker, Git, Linux, VS Code  
+### What I’m into
+- Designing secure authentication and authorization flows
+- Analyzing logs and security signals to find suspicious behavior
+- Turning backend systems into usable mobile apps
+- Learning how real systems fail — and how to harden them
 
 ---
 
-## 📂 Featured Projects
-1. 🔐 **Secure Auth API** – Role-based access control, JWT, logging, rate limiting  
-2. 📊 **Security Log Analyzer** – Detect anomalies, visualize threats, PostgreSQL backend  
-3. 📱 **Flutter Security Dashboard** – Mobile app consuming secure APIs to monitor threats  
-4. 🛠️ **Intrusion Detection Tool (Experimental)** – Educational tool for attack detection  
+### Tools I actually use
+
+**⚡ Backend**
+Python · Django · Node.js · PostgreSQL · REST APIs  
+
+**☁️ Security**
+JWT · OAuth2 · Hashing · Input validation · Access control  
+
+**🗄️ Databases**
+PostgreSQL · MongoDB · MySQL · Supabase · Drizzle · Firebase
+
+**📱Mobile**
+Flutter · Dart  
+
+**🛠️ Tools**
+Git · GitHub · Postman · Arduino · Cisco
+---
+
+### Things I’ve built (or I’m building)
+- **Secure Auth API** — role-based access control, JWT, logging, rate limiting  
+- **Security Log Analyzer** — detects unusual patterns in authentication and system logs  
+- **Flutter Security Dashboard** — mobile client for monitoring security data  
+- **Phishing Email Detector** — ML-based experiment using real-world datasets  
+
+Each project is built for learning and defensive security purposes.
 
 ---
 
-## 🌱 Learning & Interests
-- Threat modeling & defensive strategies
-- Backend architecture patterns
-- Security data pipelines
-- Mobile security interfaces
+### Currently improving
+- Backend security patterns
+- Security analytics
+- Applying ML carefully in cybersecurity (no hype, just signals)
 
-<!--
-**asmaBelkerrouche/asmaBelkerrouche** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+🤝 If you’re into secure systems, backend work, or security data — we’ll get along.
+Linkdin :Asma belkerrouche 
+Email : a_belkerrouche@estin.dz
+Github : asmaBelkerrouche
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
