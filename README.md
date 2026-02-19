@@ -30,7 +30,7 @@ PostgreSQL · MongoDB · MySQL · Supabase · Drizzle · Firebase
 Flutter · Dart  
 
 **🧰 Tools**  
-Git · GitHub · Postman · Arduino · Cisco  
+Git · GitHub · Postman · Cisco  
 
 ---
 
