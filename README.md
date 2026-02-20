@@ -1,7 +1,7 @@
 ## Hey, I’m Asma 👋
 
 Cybersecurity student who prefers **building things** over just talking about attacks.  
-I mostly work on **secure backend systems**, **security-related data**, and **Flutter apps** that sit on top of real APIs — not mockups.
+I mostly work on **secure backend systems**, **security-related data**, and **Flutter apps** .
 
 📍 Based in **Algeria 🇩🇿**
 
