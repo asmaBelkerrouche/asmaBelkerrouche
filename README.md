@@ -47,7 +47,7 @@ _All projects are built for learning and **defensive security** purposes._
 ### 🌱 Currently improving
 - Backend security patterns  
 - Security analytics  
-- Applying ML **carefully** in cybersecurity (no hype, just signals)
+- Applying ML **carefully** in cybersecurity 
 
 ---
 
